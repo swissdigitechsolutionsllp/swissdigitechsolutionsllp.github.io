@@ -1,1 +1,21 @@
-{"name":"Swiss DigiTech Solutions LLP","short_name":"Swiss DigiTech","start_url":"/","display":"standalone","background_color":"#f7f5ef","theme_color":"#0b3b36","icons":[{"src":"https://github.com/swissdigitechsolutionsllp/swissdigitechsolutionsllp.github.io/raw/main/Swiss%20DigiTech%20Solutions%20LLP.jpg","sizes":"any","type":"image/jpeg"}]}
+{
+  "name": "Swiss DigiTech Solutions LLP",
+  "short_name": "Swiss DigiTech",
+  "description": "Building digital identities that help brands grow globally.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#F7F5FA",
+  "theme_color": "#5A00B5",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
