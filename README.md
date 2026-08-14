@@ -1,1 +1,19 @@
-Swiss DigiTech Solutions LLP operates as a global technology agency with main offices in Switzerland and India. This firm specializes in building strong online identities for businesses trying to scale. A dedicated team works together to provide modern digital services to clients worldwide. The comprehensive service lineup covers website design and development, custom web applications, and iOS or Android mobile app development. Marketing expertise features heavily with search engine optimization, pay per click advertising, social media marketing, branding, creative design, and strategic email marketing. Swiss DigiTech Solutions LLP ensures affordable, scalable results that match unique corporate objectives and secure lasting marketplace success for international brands in a competitive environment. 
+# Swiss DigiTech Solutions LLP Website
+
+Static multi-page website ready for GitHub Pages.
+
+## Files
+- `index.html`
+- `about.html`
+- `services.html`
+- `pricing.html`
+- `blog.html`
+- `faq.html`
+- `contact.html`
+- `styles.css`
+- `robots.txt`
+- `sitemap.xml`
+- `site.webmanifest`
+
+## Publish
+Upload all files to the root of your GitHub Pages repository and enable Pages from the appropriate branch.
